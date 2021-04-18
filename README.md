@@ -1,8 +1,6 @@
 # Factions
-A modified version of the Overworld Pack for Iris Dimension Engine
-This is a fork from [IrisDimensions/overworld](https://github.com/IrisDimensions/overworld).
-See [IrisDimensions-license.md](/IrisDimensions-license.md) for the License that repository was under at the time of forking.
-
+This is a modified version of the [V2]{https://github.com/IrisDimensions/overworld/tree/v2} pack adapting it for the game mode "factions"
+it is a much simpler world, without mountains, oceans, villages and fewer regions
 
 Contributors & creators:
 - [Astrash](https://github.com/Astrashh) (A lot of biomes, objects, generator configurations, caves, jigsaw structures For v2. His pack here: [Continents](https://github.com/Astrashh/Continents))
