@@ -16,8 +16,8 @@ Contributors and creators of the overworldv2 package:
 Great thanks to these people for contributing to the pack.
 If you want to contribute as well, feel free to make a branch and PR. Please do not make forks.
 
-**Image** (taken by RaydenKonig)
-![2021-04-15_13 34 50](https://user-images.githubusercontent.com/71474946/115130085-d3c05080-9fc2-11eb-9387-49f712651f98.png)
-
 **Dynmap view** (taken by user Hardsok)
 ![dynmap factions](https://user-images.githubusercontent.com/71474946/115130414-0881d700-9fc6-11eb-8539-33074861865f.png)
+
+**Image** (taken by RaydenKonig)
+![2021-04-15_13 34 50](https://user-images.githubusercontent.com/71474946/115130085-d3c05080-9fc2-11eb-9387-49f712651f98.png)
