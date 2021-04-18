@@ -10,7 +10,7 @@ Contributors & creators:
 - [Coco](https://github.com/CocoTheOwner/) (Did much of the bugfixing, configuration tweaks, merges, early v2 development)
 - [Cyberpwn](https://github.com/cyberpwnn) (Much of the early Bases and development of the iris plugin)
 - [K530](https://github.com/K530-hub) (Biome reworks, and mountain generation)
-- [RaydenKonig](https://github.com/RaydenKonig) (Innovative ideas turned into fesible configurations and applied to the pack and creation of adaptation "faction pack")
+- [RaydenKonig](https://github.com/RaydenKonig) (Innovative ideas turned into fesible configurations and applied to the pack and creation of "faction pack")
 
 Great thanks to these people for contributing to the pack.
 If you want to contribute as well, feel free to make a branch and PR. Please do not make forks.
