@@ -1,5 +1,5 @@
 # Factions
-This is a modified version of the [V2](https://github.com/IrisDimensions/overworld/tree/v2) pack adapting it for the game mode "factions"
+This is a modified version of the [OverworldV2](https://github.com/IrisDimensions/overworld/tree/v2) pack adapting it for the game mode "factions"
 it is a much simpler world, without mountains, oceans, villages and fewer regions
 
 Contributors & creators:
