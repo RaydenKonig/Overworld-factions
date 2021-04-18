@@ -1,4 +1,3 @@
-![Uploading 2021-04-15_13.34.21.png…]()
 # Factions
 A modified version of the Overworld Pack for Iris Dimension Engine
 This is a fork from [IrisDimensions/overworld](https://github.com/IrisDimensions/overworld).
@@ -17,3 +16,4 @@ Great thanks to these people for contributing to the pack.
 If you want to contribute as well, feel free to make a branch and PR. Please do not make forks.
 
 Checklist [here](checklist.md)
+![2021-04-15_13 34 50](https://user-images.githubusercontent.com/71474946/115130085-d3c05080-9fc2-11eb-9387-49f712651f98.png)
