@@ -14,7 +14,7 @@ it is a much simpler world, without mountains, oceans, villages and fewer region
 - [RaydenKonig](https://github.com/RaydenKonig) (Innovative ideas turned into fesible configurations and applied to the pack)
 
 Great thanks to these people for contributing to the pack.
-If you want to contribute as well, feel free to make a branch and PR. Please do not make forks.
+If you want to contribute as well, feel free to make a branch and PR
 
 **Dynmap view** (taken by user Hardsok)
 ![dynmap factions](https://user-images.githubusercontent.com/71474946/115130414-0881d700-9fc6-11eb-8539-33074861865f.png)
