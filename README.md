@@ -15,6 +15,6 @@ Contributors & creators:
 Great thanks to these people for contributing to the pack.
 If you want to contribute as well, feel free to make a branch and PR. Please do not make forks.
 
-**Images** (taken by RaydenKonig)
+**Image** (taken by RaydenKonig)
 ![2021-04-15_13 34 50](https://user-images.githubusercontent.com/71474946/115130085-d3c05080-9fc2-11eb-9387-49f712651f98.png)
 
