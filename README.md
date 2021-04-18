@@ -18,3 +18,5 @@ If you want to contribute as well, feel free to make a branch and PR. Please do 
 **Images** (taken by RaydenKonig)
 ![2021-04-15_13 34 50](https://user-images.githubusercontent.com/71474946/115130085-d3c05080-9fc2-11eb-9387-49f712651f98.png)
 ![2021-04-14_18 25 44](https://user-images.githubusercontent.com/71474946/115130097-fa7e8700-9fc2-11eb-959e-f6c6fc82e797.png)
+![2021-04-15_13 49 09](https://user-images.githubusercontent.com/71474946/115130133-42051300-9fc3-11eb-8974-496b37ce288d.png)
+![2021-04-15_13 30 38](https://user-images.githubusercontent.com/71474946/115130141-4d583e80-9fc3-11eb-978e-e7be53b44af5.png)
