@@ -19,6 +19,3 @@ If you want to contribute as well, feel free to make a branch and PR
 **Dynmap view** (taken by user Hardsok)
 ![dynmap factions](https://user-images.githubusercontent.com/71474946/115130414-0881d700-9fc6-11eb-8539-33074861865f.png)
 
-**Image** (taken by RaydenKonig)
-![2021-04-15_13 34 50](https://user-images.githubusercontent.com/71474946/115130499-a83f6500-9fc6-11eb-958e-6f73aaf0636b.png)
-
