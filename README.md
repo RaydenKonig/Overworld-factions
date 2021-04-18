@@ -2,10 +2,10 @@
 This is a modified version of the [OverworldV2](https://github.com/IrisDimensions/overworld/tree/v2) pack adapting it for the game mode "factions"
 it is a much simpler world, without mountains, oceans, villages and fewer regions
 
-Faction pack creator:
+**Faction pack creator:**
 - [RaydenKonig](https://github.com/RaydenKonig) 
 
-Contributors and creators of the overworldv2 package:
+**Contributors and creators of the overworldv2 package:**
 - [Astrash](https://github.com/Astrashh) (A lot of biomes, objects, generator configurations, caves, jigsaw structures For v2. His pack here: [Continents](https://github.com/Astrashh/Continents))
 - [Brian](https://github.com/NextdoorPsycho) (Created the origin (overworld v1) content in the pack. most of the objects and biomes are of his making, and free to use for anyone who owns iris)
 - [Coco](https://github.com/CocoTheOwner/) (Did much of the bugfixing, configuration tweaks, merges, early v2 development)
